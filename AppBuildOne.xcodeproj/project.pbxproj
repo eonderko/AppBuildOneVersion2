@@ -12,6 +12,7 @@
 		7FED80182405B46B0086FB46 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FED80162405B46B0086FB46 /* Main.storyboard */; };
 		7FED801A2405B46B0086FB46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FED80192405B46B0086FB46 /* Assets.xcassets */; };
 		7FED801D2405B46B0086FB46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FED801B2405B46B0086FB46 /* LaunchScreen.storyboard */; };
+		7FED80252405B5010086FB46 /* firstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FED80242405B5010086FB46 /* firstVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7FED80192405B46B0086FB46 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7FED801C2405B46B0086FB46 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7FED801E2405B46B0086FB46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FED80242405B5010086FB46 /* firstVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				7FED80122405B46B0086FB46 /* AppDelegate.swift */,
 				7FED80142405B46B0086FB46 /* ViewController.swift */,
 				7FED80162405B46B0086FB46 /* Main.storyboard */,
+				7FED80242405B5010086FB46 /* firstVC.swift */,
 				7FED80192405B46B0086FB46 /* Assets.xcassets */,
 				7FED801B2405B46B0086FB46 /* LaunchScreen.storyboard */,
 				7FED801E2405B46B0086FB46 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				7FED80152405B46B0086FB46 /* ViewController.swift in Sources */,
 				7FED80132405B46B0086FB46 /* AppDelegate.swift in Sources */,
+				7FED80252405B5010086FB46 /* firstVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
